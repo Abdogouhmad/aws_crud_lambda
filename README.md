@@ -58,7 +58,6 @@ Retrieves all notes.
       "Note": "string",
       "Username": "string"
     },
-    ...
   ]
 }
 ```
