@@ -46,7 +46,7 @@ Retrieves all notes.
 
 **Response:**
 
-````json
+```json
 {
   "notes": [
     {
@@ -61,7 +61,7 @@ Retrieves all notes.
     ...
   ]
 }
-
+```
 ### POST /notes
 
 Creates a new note.
